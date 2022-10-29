@@ -18,8 +18,6 @@ namespace StackUsingLinkedList
             numbers.Push(56);
            
 
-            //data.Pop();
-
 
             foreach (var elem in numbers)
             {
